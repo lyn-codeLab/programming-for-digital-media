@@ -53,6 +53,7 @@ function isEven(displayScore) {
     }
 }
 
-console.log("the value of the player's score is: " + displayScore() + ". " + isEven(displayScore));
+console.log("the value of the player's score is: " + displayScore() + ". " + isEven());
+
 
 
